@@ -1,9 +1,9 @@
 {
   "plant": "Addo Spar Smart Logger",
-  "last_updated": "2026-03-13 12:31 SAST",
+  "last_updated": "2026-03-13 13:27 SAST",
   "date": "2026-03-13",
-  "total_kwh": 757.38,
-  "last_hour": 11,
+  "total_kwh": 959.19,
+  "last_hour": 12,
   "status": "ok",
   "alerts": {
     "offline": false,
@@ -20,11 +20,11 @@
     }
   },
   "debug": {
-    "curve_fraction": 0.5,
-    "expected_by_now": 700.0,
-    "actual_kwh": 757.38,
-    "pace_trigger": 210.0,
-    "projected_total": 1514.8,
+    "curve_fraction": 0.628,
+    "expected_by_now": 878.8,
+    "actual_kwh": 959.19,
+    "pace_trigger": 263.6,
+    "projected_total": 1528.0,
     "low_day_kwh": 304.0,
     "sunrise": 5.92,
     "sunset": 18.08,
@@ -46,7 +46,7 @@
     175.29,
     196.14,
     201.18,
-    0.0,
+    201.81,
     0.0,
     0.0,
     0.0,
